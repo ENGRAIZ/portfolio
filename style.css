@@ -28,7 +28,7 @@ body {
 
 #landing {
 /* vh is viewport height or the total height of your screen*/
-	height: 80vh;
+	height: 70vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
